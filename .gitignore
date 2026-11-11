@@ -1,0 +1,8 @@
+sessions/
+sync-conflicts/
+*.log
+cloudflared.exe
+cloudflared
+.gradle/
+build/
+local.properties
